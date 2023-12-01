@@ -1,0 +1,15 @@
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.csproj.AssemblyReference.cache
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.AssemblyInfoInputs.cache
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.AssemblyInfo.cs
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.csproj.CoreCompileInputs.cache
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/bin/Debug/net7.0/tabela proj arq
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/bin/Debug/net7.0/tabela proj arq.deps.json
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/bin/Debug/net7.0/tabela proj arq.runtimeconfig.json
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/bin/Debug/net7.0/tabela proj arq.dll
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/bin/Debug/net7.0/tabela proj arq.pdb
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.dll
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/refint/tabela proj arq.dll
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.pdb
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/tabela proj arq.genruntimeconfig.cache
+/Users/luanamouro/Projects/tabela proj arq/tabela proj arq/obj/Debug/net7.0/ref/tabela proj arq.dll
